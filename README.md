@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Vikas Tiwari</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-
-- 🔭 I’m currently working on
+<p>- 🔭 I’m currently working on
 [Codewise](https://github.com/Vikas-Tiwari93/Codewise-Frontend.git ,
-https://github.com/Vikas-Tiwari93/Codewise-backend.git) - 🌱 I’m currently
+https://github.com/Vikas-Tiwari93/Codewise-backend.git)</p>
+<p> - 🌱 I’m currently
 learning **Nodejs frameworks** - 👨‍💻 All of my projects are available at
-[https://github.com/Vikas-Tiwari93?tab=repositories](https://github.com/Vikas-Tiwari93?tab=repositories)
-- 💬 Ask me about **React, Redux, Javascript, Nodejs, mongodb** - 📫 How to
-reach me **vikastiwarisync@gmail.com** - 📄 Know about my experiences
+[https://github.com/Vikas-Tiwari93?tab=repositories](https://github.com/Vikas-Tiwari93?tab=repositories)</p>
+<p>- 💬 Ask me about **React, Redux, Javascript, Nodejs, mongodb** - 📫 How to
+reach me **vikastiwarisync@gmail.com**</p>
+ - 📄 Know about my experiences
 [https://shorturl.at/fIQS7](https://shorturl.at/fIQS7) - ⚡ Fun fact **Its all
 about taking the first step.**
 
